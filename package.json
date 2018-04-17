@@ -1,0 +1,23 @@
+{
+  "name": "ts-types-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^22.2.3",
+    "@types/node": "^9.6.5",
+    "jest": "^22.4.3",
+    "ts-jest": "^22.4.3",
+    "ts-lint": "^4.5.1",
+    "typescript": "^2.8.1"
+  }
+}
